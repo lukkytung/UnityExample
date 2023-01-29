@@ -60,4 +60,5 @@ crashlytics-build.properties
 
 # Ignore Project
 Snail 2D/
+NavMesh/
 
