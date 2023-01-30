@@ -1,4 +1,0 @@
-repository "Object Pooling@jianhuatung@cloud.cn"
-  path "/"
-    br "/main"
-    co "/main"
