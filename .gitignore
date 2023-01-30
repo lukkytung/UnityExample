@@ -61,4 +61,6 @@ crashlytics-build.properties
 # Ignore Project
 Snail 2D/
 NavMesh/
+Physics System/Assets/Easy Primitive People
+
 
