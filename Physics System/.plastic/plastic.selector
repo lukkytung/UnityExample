@@ -1,4 +1,0 @@
-repository "Physics System@jianhuatung@cloud.cn"
-  path "/"
-    br "/main"
-    co "/main"
