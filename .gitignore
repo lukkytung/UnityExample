@@ -58,9 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-# Ignore Project
+# Ignore Project Library
 Snail 2D/Library/
 NavMesh/Library/
 Physics System/Library/
-
+Object Pooling/Library/
+Design Patterns/Library/
 
