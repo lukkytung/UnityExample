@@ -1,0 +1,4 @@
+repository "NavMesh@jianhuatung@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
