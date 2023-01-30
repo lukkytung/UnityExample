@@ -1,0 +1,4 @@
+repository "Snail 2D@jianhuatung@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

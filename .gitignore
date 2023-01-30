@@ -59,9 +59,8 @@ sysinfo.txt
 crashlytics-build.properties
 
 # Ignore Project
-Snail 2D/
+Snail 2D/Library/
 NavMesh/Library/
 Physics System/Library/
-Physics System/Assets/Easy Primitive People
 
 
