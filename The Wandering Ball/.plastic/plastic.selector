@@ -1,0 +1,4 @@
+repository "The Wandering Ball@jianhuatung@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
