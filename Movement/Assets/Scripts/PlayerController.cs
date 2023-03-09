@@ -35,8 +35,9 @@ public class PlayerController : MonoBehaviour
         if (Input.GetMouseButton(0))
         {
             screenPoint = Input.mousePosition;
-            // screenPoint.z = cam.nearClipPlane + 1;
-            worldPoint = cam.ScreenToViewportPoint(screenPoint);
+            screenPoint.z = cam.nearClipPlane + 5;
+            // worldPoint = cam.ScreenToViewportPoint(screenPoint);
+              worldPoint = cam.ScreenToWorldPoint(screenPoint);
             transform.position = worldPoint;
             Debug.Log("=====mousePosition:" + screenPoint);
             Debug.Log("=====rb.position:" + worldPoint);
